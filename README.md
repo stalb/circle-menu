@@ -1,6 +1,8 @@
 ﻿Circle Menu
 ===========
 
+A modified version of [Zikes cicle-menu](https://github.com/zikes/circle-menu) used in project Itac.
+
 A customizable jQuery plugin that emulates the menu in the [Path][] application.  Includes a 
 selection animation and various animation options for opening and closing the menu.
 
