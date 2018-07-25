@@ -202,6 +202,7 @@
         return this;
     };
     CircleMenu.prototype.select = function(index){
+        /*
         var self = this,
             selected, set_other;
 
@@ -218,6 +219,7 @@
             self.element.removeClass(pluginName+'-open');
             setTimeout(function(){self.initCss();},500);
         }
+        */
     };
     CircleMenu.prototype.clearTimeouts = function(){
         var timeout;
